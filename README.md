@@ -4,9 +4,11 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size: 16px; color: #6a5a5a;">
   <i>Don't wander through my repositories alone...</i><br>
   <i>Let my projects be your guide. 💌</i>
   <br><br>
-  <a href="https://pro-talk-lake.vercel.app/"><b>Meet my projects 💕</b></a>
+  <a href="https://pro-talk-lake.vercel.app/" style="text-decoration: none; color: #d16b86; font-size: 15px;">
+    ✨ <b>Meet my projects 💕</b> ✨
+  </a>
 </div>
