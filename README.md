@@ -8,7 +8,7 @@
   <i>Don't wander through my repositories alone...</i><br>
   <i>Let my projects be your guide. 💌</i>
   <br><br>
-  <a href="https://pro-talk-lake.vercel.app/" style="text-decoration: none; color: #d16b86; font-size: 15px;">
+  <a href="https://projecttalk.vercel.app/" style="text-decoration: none; color: #d16b86; font-size: 15px;">
      <b>Meet my projects 💕</b> 
   </a>
 </div>
